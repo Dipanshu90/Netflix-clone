@@ -1,6 +1,6 @@
 # To run, Clone the repository, do "npm i" then "npm run start".
 
-This website is a clone of https://www.netflix.com/ and I have hosted it on https://bit.ly/3oWZSqs. This clone fetches the data of movies of different genres from the TMDB database. This is implemented using fetch API in ReactJs. For the authentication and subscription payments support Firebase is used along with Stripe. Firstore cloud is used as the database for users and their subscriptions.
+This website is a clone of https://www.netflix.com/ and I have hosted it on firebase. Link: :- https://netflix-clone-f6cf6.web.app/. This clone fetches the data of movies of different genres from the TMDB database. This is implemented using fetch API in ReactJs. For the authentication and subscription payments support Firebase is used along with Stripe. Firstore cloud is used as the database for users and their subscriptions.
 
 ### `npm start`
 
