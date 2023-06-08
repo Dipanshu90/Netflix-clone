@@ -1,4 +1,4 @@
-# To run, Do npm i then npm run start.
+# To run, Do "npm i" then "npm run start".
 
 # Getting Started with Create React App and Redux
 
